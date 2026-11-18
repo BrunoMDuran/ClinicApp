@@ -1,6 +1,6 @@
 # ClinicApp
 
-Aplicación de escritorio en Java (Swing) para la gestión de una clínica: pacientes, médicos, especialidades, usuarios, citas e historia clínica. Fue el trabajo final de una materia de la carrera y se conecta a una base de datos SQL Server.
+Aplicación de escritorio en Java (Swing) para la gestión de una clínica: pacientes, médicos, especialidades, usuarios, citas e historia clínica. Fue el trabajo final de una materia de la carrera y se conecta a una base de datos MySQL.
 
 ## Tecnologías
 
